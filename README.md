@@ -1,4 +1,4 @@
-# flutter_test_app
+# meet-app
 
 A new Flutter project.
 
